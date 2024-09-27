@@ -7,7 +7,7 @@ class script(object):
 
 ⚠️ 𝖧𝗂𝗍 /help for more features of Bot.
 
-<b>Bot is made by love By ~ @OwnYourBotz</b>"""
+<b>Bot is made by love By ~ @The_Raftaar</b>"""
 
     HELP_TXT = """🙋🏻‍♂️ Namaste {} 🤓
 
@@ -26,7 +26,7 @@ class script(object):
  /broadcast - Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/HelplessBoi'>Predator</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/The_Raftaar'>RAFTAAR</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
@@ -38,7 +38,7 @@ class script(object):
 Special Thanks to EvaMaria Devs & Cloners for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/HelpLessBoi>『Predator』</a>
+- <a href=https://t.me/The_Raftaar>『Predator』</a>
 
 - Source - https://github.com/PredatorHackerzZ/SamanthaMoviesRobot""" #please don't change repo link give credit :)
 
